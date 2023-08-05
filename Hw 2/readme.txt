@@ -1,0 +1,1 @@
+For both part2/part3.py, change the absolute path to point to where insurance.csv is in your system
